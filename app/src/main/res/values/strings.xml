@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TillJannah</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="signup">signup</string>
+    <string name="fullname">fullname</string>
+    <string name="email">email</string>
+    <string name="signuphere">don\'t have account? Sign Up</string>
+    <string name="loginText">already have account? Log In</string>
 </resources>
